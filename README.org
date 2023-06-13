@@ -1,0 +1,10 @@
+* prompt-for
+
+Type safe user input.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/prompt-for.git   |
+| commit  | 993459a  |
+| systems | prompt-for |
+|---------+-------------------------------------------|
+
